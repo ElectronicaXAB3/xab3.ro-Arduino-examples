@@ -32,7 +32,7 @@ void loop() {
   Serial.println(accel.acceleration.x);
   Serial.print("Acceleratie Y: ");
   Serial.println(accel.acceleration.y);
-  Serial.print("Acceleratie m/s^2: ");
+  Serial.print("Acceleratie Z: ");
   Serial.println(accel.acceleration.z);
   delay(500);
 }
