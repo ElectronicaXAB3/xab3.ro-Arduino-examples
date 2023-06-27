@@ -12,4 +12,4 @@ Modulul cu releu este potrivit pentru aplicațiile dumneavoastră în care aveț
 
 ## Link Resurse
 - [Website](https://www.xab3.ro/produse/modul-releu-1-canal-comanda-negativa-5v)
-- [Datasheet](https://handsontec.com/dataspecs/relay/1Ch-relay.pdf)
+- [Datasheet](Datasheet%20Relay.pdf)

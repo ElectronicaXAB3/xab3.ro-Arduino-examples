@@ -9,4 +9,5 @@ APDS9960 este un senzor digital cu comunicare I2C, pentru detectia de proximitat
 
 ## Link Resurse
 - [Website](https://www.xab3.ro/produse/apds9960)
-- [Datasheet](https://cdn.sparkfun.com/assets/learn_tutorials/3/2/1/Avago-APDS-9960-datasheet.pdf)
+- [Datasheet](Datasheet%20APDS990.pdf)
+- [Adafruit_APDS9960.h](https://github.com/adafruit/Adafruit_APDS9960/)
