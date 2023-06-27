@@ -12,6 +12,7 @@ Circuit integrat DS3231 este ideal pentru a memora și a incrementa automat data
 
 ## Link Resurse
 - [Website](https://www.xab3.ro/produse/modul-rtc-ds3231-at24c32)
-- [Datasheet](Datasheet%20DS3231S.pdf)
+- [Datasheet DS3231](Datasheet%20DS3231S.pdf)
+- [Datasheet AT24C32](Datasheet%20AT24C32.pdf)
 - [RTClib.h](https://github.com/adafruit/RTClib)
 - [AT24Cxx.h](https://github.com/cvmanjoo/AT24Cxx)

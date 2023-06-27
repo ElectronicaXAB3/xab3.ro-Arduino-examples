@@ -1,4 +1,4 @@
-# Modul RTC DS3231 AT24C32
+# Senzor TCRT5000L
 
 ## Descriere produs
 Senzor TCRT5000L cu tehnologie infrarosu IR pentru detectarea obstacolelor, compatibil cu Arduino precum si cu procesoarele din gamele AVR, ARM si PIC alimentate la 5V.

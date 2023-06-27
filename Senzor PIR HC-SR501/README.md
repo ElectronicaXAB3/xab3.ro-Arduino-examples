@@ -1,4 +1,4 @@
-# Modul RTC DS3231 AT24C32
+# Modul PIR HC-SR501
 
 ## Descriere produs
 Senzorul PIR HC-SR501 este ideal pentru a detecta diferite miscari, cu ajutorul unui infrarosu.
