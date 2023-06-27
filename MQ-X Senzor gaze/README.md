@@ -10,8 +10,7 @@ Senzorul de tip MQ-x detecteaza prezența diferitelor tipuri de gaze la o concen
 - Temperatură de functionare: -10 +50 °
 
 ## Link Resurse
-- [Website](https://www.xab3.ro/produse/pir-hc-sr501)
-- [Datasheet](Datasheet%20PIR.pdf)
+
 
 MQ-2 | MQ-4 | MQ-5 | MQ-6 | MQ-7 | MQ-8 | MQ-9
 --- | --- | --- | --- | --- | --- | ---
