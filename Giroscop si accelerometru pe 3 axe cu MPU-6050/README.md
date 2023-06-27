@@ -11,4 +11,4 @@ Acest modul de Giroscop si Accelerometru pe 3 axe foloseste un MPU 6050, care co
 
 ## Link Resurse
 - [Website](https://www.xab3.ro/produse/mpu-6050-giroscop-si-accelerometru-3-axe)
-- [Datasheet](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)
+- [Datasheet](Datasheet MPU-6050.pdf)
