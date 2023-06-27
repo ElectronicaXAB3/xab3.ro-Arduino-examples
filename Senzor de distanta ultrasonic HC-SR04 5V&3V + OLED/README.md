@@ -26,3 +26,5 @@ HC-SR04 | OLED I2C
 --- | ---
 [Website](https://www.xab3.ro/produse/senzor-de-distanta-ultrasonic-hc-sr04) | [Website](https://www.xab3.ro/produse/oled-096-128x64-i2c)
 [Datasheet](Datasheet%20HCSR04.pdf) | [Datasheet](Datasheet%20SSD1306.pdf)
+ \- | [Adafruit_GFX.h](https://github.com/adafruit/Adafruit-GFX-Library)
+ \- | [Adafruit_SSD1306.h](https://github.com/adafruit/Adafruit_SSD1306)
