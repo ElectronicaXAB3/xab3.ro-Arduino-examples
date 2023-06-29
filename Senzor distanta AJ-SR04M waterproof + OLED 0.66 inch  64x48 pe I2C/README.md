@@ -1,17 +1,29 @@
-# Giroscop si accelerometru pe 3 axe cu MPU-6050
+# Senzor distanta AJ-SR04M waterproof si OLED 0.66 inch / 64x48 pe I2C
 
 ## Descriere produs
-Modulul de citire RFID RC522 echipat cu MFRC522 este unul din cele mai utilizate module pentru citirea tagurilor RFID. Protocolul de comunicare UART/I2C/SPI si tensiuna de lucru de 3.3V permite utilizarea cu usurinta a acestui modul impreuna cu majoritatea platformelor.
+AJ-SR04M | OLED
+--- | ---
+AJ-SR04M este un modul care masoara distanta folosind ultrasunete, 40KHz. Modulul este rezistent la apa ( waterproof ), are un consum redus, si este usor de folosit. | Afisajul OLED  cu chip SSD1306 cu o diagonala de 0.66 inch si o rezolutie de 64x48 pixeli, este un afisaj care poate functiona la tesiune de 3,3V cu un raport calitate pret foarte rezonabil.
 
 ## Detalii tehnice
-- Tensiune de lucru: 2.5-3.3V
-- Consum: Sleep ≈80uA, Idle ≈10-13mA, Working ≈30-100mA
-- Frecventa antena: 13.56 MHz
-- Comunicare: UART/I2C/SPI @ 3.3V Logic level
-- Carduri suportate: Mifare 1k, 4k, Ultralight, and DesFire,MF1xxS20, MF1xxS70 si MF1xxS50
-- Dimensiune cablaj: 40x60mm
+
+### AJ-SR04M 
+- Tensiune de alimentare: 3.3-5V 
+- Consum: 2-5mA
+- I/O raspuns: 10µs
+- Frecventa: 40khz
+- Distanta masurabila: 2-200cm
+
+### OLED 0.66 inch / 64x48 pe I2C
+- Diagonala ecran: 0.66”
+- Numar de pixeli: 64 x 48
+- Tensiune alimentare: 3.3V
+- Interfață: I2C
 
 ## Link Resurse
-- [Website](https://www.xab3.ro/produse/rfid-rc522)
-- [Datasheet](Datasheet%20MFRC522.pdf)
-- [MFRC522.h](https://github.com/pablo-sampaio/easy_mfrc522)
+AJ-SR04M | OLED
+--- | ---
+[Website](https://www.xab3.ro/produse/senzor-distanta-aj-sr04m) | [Website](https://www.xab3.ro/produse/display-oled-066-inch-64x48-pixeli)
+[Datasheet](Datasheet%20AJ-SR04M.pdf) | [Datasheet](Datasheet%20SSD1306.pdf)
+ \- | [Adafruit_GFX.h](https://github.com/adafruit/Adafruit-GFX-Library)
+ \- | [Adafruit_SSD1306.h](https://github.com/adafruit/Adafruit_SSD1306)
